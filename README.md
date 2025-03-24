@@ -10,7 +10,7 @@ Não foi implementado o recurso de aceitar apenas motoristas mulheres, pois o pr
 
 ## Etapas: 
 - [x] Package model (contém as classes que representam as entidades do banco de dados)
-- [ ] Fazer modificações no arquivo application.properties - criar bd
+- [x] Fazer modificações no arquivo application.properties - criar bd
 - [x] Criar classe Usuário
 - [x] Criar classe Veiculo
 - [x] Criar classe Viagem
