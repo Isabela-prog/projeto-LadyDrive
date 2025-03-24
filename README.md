@@ -2,7 +2,7 @@
 
 
 Nessa aplicação teremos um sistema completo de cadastro,ataulização,\
-deleção e busca de todos as usuárias,por meio do id e pelo nome (método específico escolhido).
+deleção e busca de todos as usuárias,por meio do id e pelo nome (método específico escolhido).\
 Bem como, para veiculo (método específico será buscar por modelo) e viagens (método específico será buscar por destino).\
 Nesse projeto, na classe service, temos a regra de negócio de apenas aceitar que usuários do sexo feminino se cadastrem,\
 caso um usuário masculino tente realizar cadastro o sistema irá gerar um erro.\
