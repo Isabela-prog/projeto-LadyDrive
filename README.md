@@ -36,5 +36,5 @@ Não foi implementado o recurso de aceitar apenas motoristas mulheres, pois o pr
 
 > A parte mais desafiadora do projeto foi criar o método específico da Service.  
 
-</br></br> Esse projeto foi realizado por **Isabela Santos, Abiqueila, Evelyn Santos, Thainara Cruz, Hellen Gleice e Mayte**, no Cruso Java Fullstack Brasil\ 
+</br></br> Esse projeto foi realizado por **Isabela Santos, Abiqueila, Evelyn Santos, Thainara Cruz, Hellen Gleice e Mayte**, no Cruso Java Fullstack Brasil 
 com intuito de aplicar conhecimentos adquiridos ao longo das aulas.
